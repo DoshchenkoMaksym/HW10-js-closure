@@ -5,7 +5,8 @@ function sum(x) {
     };
 };
 
-const sum1 = sum(5);
+const sum1 = sum(1);
+
 sum1(2);
 
  /*    const sum1 = sum(1);
